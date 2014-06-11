@@ -1,0 +1,16 @@
+
+
+
+PocketMine Plugin "WorldGuardPE" To-Do List
+
+•Make Plugins API [1.0.0]
+
+•Have it finished two days after release of PocketMine-MP 1.4
+
+•Make The Config file easy to read
+
+•Update plugin every week and after 4 updates Update Plugin on forums
+
+Request a Feature
+
+"Create an Issue and we will read it!!!"
