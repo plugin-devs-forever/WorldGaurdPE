@@ -1,0 +1,6 @@
+Name: WorldBorderPE
+Author: Plugin-Devs-Forever
+Version: alpha 1.0
+API: [1.0.0]
+Load: Startup
+Main: WorldBorderPE\Plugin\Main
